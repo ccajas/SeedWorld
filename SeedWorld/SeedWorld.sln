@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedWorld", "SeedWorld.csproj", "{55DBFC90-010F-4FEE-BF43-142EDCA14996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedWorldContent", "..\SeedWorldContent\SeedWorldContent.contentproj", "{294A5333-DA79-498B-9230-FD3937E5A45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DBFC90-010F-4FEE-BF43-142EDCA14996}.Debug|x86.ActiveCfg = Debug|x86
+		{55DBFC90-010F-4FEE-BF43-142EDCA14996}.Debug|x86.Build.0 = Debug|x86
+		{55DBFC90-010F-4FEE-BF43-142EDCA14996}.Release|x86.ActiveCfg = Release|x86
+		{55DBFC90-010F-4FEE-BF43-142EDCA14996}.Release|x86.Build.0 = Release|x86
+		{294A5333-DA79-498B-9230-FD3937E5A45C}.Debug|x86.ActiveCfg = Debug|x86
+		{294A5333-DA79-498B-9230-FD3937E5A45C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
