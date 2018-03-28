@@ -8,7 +8,8 @@ Engine features:
 * Tweakable settings for Simplex noise for chunk generator
 * Multi-threaded support for chunk generation (each thread processes a chunk independently)
 * Simple atmospheric ambient lighting based on 6-sided color map
-* Dynamic day/light cycle for dynamic lighting
+* Per-vertex lighting for pseudo ambient occlusion
+* Day/light cycle for dynamic lighting
 
 This an older project that was developed from late 2014-15, using the XNA framework. Porting to MonoGame is also possible.
 
